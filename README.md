@@ -1,5 +1,5 @@
 # ImageEditor
-Program z GUI przedstawiający modyfikacje obrazu za pomocą wzorów.
+Program z GUI przedstawiający transformacje obrazu za pomocą wzorów.
 ![](pic1.png)
 <h2>Instalacja</h2>
 <ol>
